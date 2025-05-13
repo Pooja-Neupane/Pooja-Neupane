@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Pooja-Neupane
 
-🌸 A passionate BCA student on a mission to become a top IT professional, academic scholar, and creative app developer.
+🌸 A passionate BCA student on a mission to become a top IT professional, and creative app developer.
 
 ---
 
@@ -19,7 +19,7 @@
 - 🌐 Web Technologies & Backend Development
 - 📲 App Design (with focus on vehicle, traffic & people-aware apps)
 - 📂 Git & GitHub for Project Showcasing
-- 🔢 Probability, Statistics, and System Analysis
+
 
 ---
 
