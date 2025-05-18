@@ -1,5 +1,4 @@
 <!-- Banner or GIF -->
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Pooja👋;Web+Developer+%7C+BCA+Student;Passionate+Learner+and+Creator;&center=true&width=500&height=50" alt="Typing SVG" />
 
 <h2 align="center">💻 Aspiring Full Stack Developer | 🎓 BCA Student | ✨ Creative Coder</h2>
 
