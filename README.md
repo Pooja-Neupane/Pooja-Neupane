@@ -7,8 +7,7 @@
 ---
 
 🎓 **BCA Student | Tech Enthusiast | Creative Innovator**  
-💻 Passionate about web development, app design, and building real-world solutions.  
-🚀 Currently building a **Period Tracker App (herCircle)** for DeerHack.  
+💻 Passionate about web development, app design, and building real-world solutions.   
 🌱 Learning **JavaScript, Python, APIs**, and **App Monetization** strategies.  
 🎯 Goal: Become a **Tech Leader** and launch innovative IT products.
 
