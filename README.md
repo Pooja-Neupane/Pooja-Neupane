@@ -84,9 +84,7 @@
 
 ---
 
-## 🐍 Snake Game (GitHub Contribution Animation)
 
-![snake gif](https://github.com/Pooja-Neupane/Pooja-Neupane/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
